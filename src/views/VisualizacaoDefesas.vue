@@ -323,6 +323,10 @@ export default {
   font-size: 35px;
 }
 
+.filtro-item{
+  margin-bottom: 8px;
+}
+
 .table {
   width: 100%;
   border-collapse: collapse;
@@ -333,6 +337,7 @@ export default {
   color:#122234;
   border: 1px solid #dddddd;
   padding: 8px;
+  text-align: center;
 }
 
 .table th {

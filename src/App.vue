@@ -39,6 +39,7 @@
 <style>
 #app {
   height: 100vh;
+  font-family:sans-serif;
 }
 html, body {
   margin: 0;
@@ -68,8 +69,8 @@ html, body {
 }
 
 .logo {
-  width: 150px;
-  height: 60px;
+  width: 100px;
+  height: 50px;
   padding: 14px 0px 0px 30px;
 }
 
@@ -94,7 +95,7 @@ html, body {
   text-decoration: none;
   position: relative;
   color: #ffffff;
-  font-size: 18px;
+  font-size: 12px;
   padding: 4px;
 }
 
